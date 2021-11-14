@@ -1,7 +1,7 @@
 > For business - **akashtid445@gmail.com**
 
 ## Github Stats
-![Nobita's GitHub stats](https://github-readme-stats.vercel.app/api?username=desinobitaicons=true&theme=synthwave)
+![Nobita's GitHub stats](https://github-readme-stats.vercel.app/api?username=desinobita&show_icons=true&theme=synthwave)
 
 # Activity Graph
 
