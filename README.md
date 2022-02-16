@@ -8,7 +8,7 @@ Country = "🇮🇳ɪɴᴅɪᴀ"
 
 
 ###
-[![telegram badge](https://img.shields.io/badge/@SOULxDED-30302f?style=for-the-badge&logo=telegram)](https://t.me/SOULxDED)
+[![telegram badge](https://img.shields.io/badge/@TheVenomXD-30302f?style=for-the-badge&logo=telegram)](https://t.me/SOULxDED)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Desinobita&label=Profile%20Views&red=red&style=flat-square" alt="Desinobita" /> </p>
 
 - ❥︎ ɴᴇᴡ sᴛɪʟʟ ʟᴇᴀʀɴɪɴɢ
