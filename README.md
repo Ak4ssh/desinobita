@@ -1,33 +1,33 @@
-### 🖤 ʜᴇʟʟᴏ ᴛʜᴇʀᴇ🖤
+<h1 align="center">Hi there 👋</h1>
 
-### ᴀʙᴏᴜᴛ ᴍᴇ 
-python
-Name = "Nobita"
-Age = "16"
-Country = "🇮🇳ɪɴᴅɪᴀ"
+<h1 align="center"><b><i>I'm Hêllẞøy 😉</b></i></h1>
 
+<h2 align="center"><i>My Website <a href="https://itshellboy.tk">Here ✨</a></i></h2>
 
-###
-[![telegram badge](https://img.shields.io/badge/@TheVenomXD-30302f?style=for-the-badge&logo=telegram)](https://t.me/SOULxDED)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Desinobita&label=Profile%20Views&red=red&style=flat-square" alt="Desinobita" /> </p>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHellBoy-OP&count_bg=%2379C83D&title_bg=%230084FF&icon=arduino.svg&icon_color=%2300FF20&title=Stalks&edge_flat=false)](https://hits.seeyoufarm.com)
 
-- ❥︎ ɴᴇᴡ sᴛɪʟʟ ʟᴇᴀʀɴɪɴɢ
-- ❥︎ ᴍᴏsᴛ ᴏғ ᴍʏ ʀᴇᴘᴏsɪᴛᴏʀɪᴇs ᴀʀᴇ ғᴏʀ ᴛᴇʟᴇɢʀᴀᴍ
+[![My github stats](https://github-readme-stats.vercel.app/api?username=HellBoy-OP&count_private=true&show_icons=true&theme=radical&include_all_commits=true&custom_title=Hêllẞøy's+Github+Stats)](https://github.com/HellBoy-OP)
 
-<h4 align="center"><b>My GitHub Stats💛</b></h4>
+[![Github Trophies](https://github-profile-trophy.vercel.app/?username=HellBoy-OP&theme=darkhub&no-bg=true&margin-w=15&margin-h=10&row=1&column=6&count_private=true)](https://github.com/ryo-ma/github-profile-trophy)
 
-![Desi Nobita's Git Stats](https://github-readme-stats.vercel.app/api?username=Desinobita&include_all_commits=true&count_private=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Desinobita&layout=compact&theme=radical)](https://github.com/Desinobita)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=HellBoy-OP&theme=black-ice)](https://git.io/streak-stats)
 
-### Languages and Tools I Love❤️
-[<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/600px-Python-logo-notext.svg.png" />](https://python.org/)
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />](https://code.visualstudio.com/)
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />](https://git-scm.com/)
-[<img align="left" alt="Linux" width="26px" src="https://www.freepnglogos.com/uploads/linux-png/difference-between-linux-and-window-operating-system-3.png" />](https://www.linux.org/)
-[<img align="left" alt="Ubuntu" width="26px" src="https://assets.ubuntu.com/v1/29985a98-ubuntu-logo32.png" />](https://www.ubuntu.com)
-[<img align="left" alt="Heroku" width="26px" src="https://www.nicepng.com/png/full/223-2233246_heroku-logo-salesforce-heroku.png" />](https://heroku.com/)
+[![Github Graphs](https://activity-graph.herokuapp.com/graph?username=HellBoy-OP&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true)](https://guthub.com/HellBoy-OP)
 
-<br />
-<br />
+[![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HellBoy-OP&layout=compact&theme=cobalt)](https://github.com/HellBoy-OP)
 
+# See You Later 🙃😉
+<!--
+**HellBoy-OP/HellBoy-OP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
 -->
